@@ -2,7 +2,20 @@
 
 # Image to Sound Converter
 
-This Python script converts images into sound files by interpreting the image data and generating corresponding audio signals.
+This Python script converts images into sound files by interpreting the image data and generating corresponding audio signals. User supplies a high-contrast image, which is will be converted into a spline graph, and applied in a windowed way to a generated frequency.
+
+### High Contrast Line Drawing
+<img width="850" alt="target" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/aca82875-0fcb-4f89-9e7a-a36fc85fbf15">
+
+### Resulting Edge Detection
+<img width="849" alt="Screenshot 2024-07-10 at 20 06 03" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/6e3a2c3c-605d-4c11-8faa-1a31af38d186">
+
+### Resulting Spline Fit and Spline Expansion
+<img width="642" alt="Screenshot 2024-07-10 at 20 05 42" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/995cbb74-ff82-48d0-9b1a-68901166ab53">
+<img width="642" alt="Screenshot 2024-07-10 at 20 05 47" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/8b6b9d95-ebb9-4d83-928a-211c904c2bc2">
+
+### Resulting Wave Function
+<img width="640" alt="Screenshot 2024-07-10 at 20 05 53" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/54f41b0f-7e71-453a-bc5e-8a5ec5b83d2a">
 
 ## Requirements
 
