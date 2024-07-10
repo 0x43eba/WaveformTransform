@@ -15,6 +15,7 @@ A user provided image is converted into a spline, which is then applyed to windo
 ### Resulting Wave Function
 <img width="640" alt="Screenshot 2024-07-10 at 20 05 53" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/54f41b0f-7e71-453a-bc5e-8a5ec5b83d2a">
 
+##### Note: Output graph may contain anomolous behaviour towards the terminal area
 
 ### Resulting Output WAVE File (segment)
 <img width="570" alt="Screenshot 2024-07-10 at 20 12 46" src="https://github.com/0x43eba/WaveformTransform/assets/76260172/952b6366-ca5a-40ea-941b-68824fd89781">
